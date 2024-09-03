@@ -2,7 +2,9 @@
 
 Currently a final year CS student at the National University of Singapore, with a minor in Management. 
 
-Takes interest in people-centric tech applications and AI agentic use cases. Also a huge fan of food, sports, travelling, _just about anything fun really._ 
+Takes interest in people-centric tech applications and AI agentic use cases. 
+
+Also a huge fan of food, sports, travelling, _just about anything fun really._ 
 
 To find out more, check out my [personal website](github.com). (p.s. a work in progress though maybe come back tomorrow?) 
 
