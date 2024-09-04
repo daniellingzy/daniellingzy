@@ -6,7 +6,7 @@ Takes interest in people-centric tech applications and AI agentic use cases.
 
 Also a huge fan of food, sports, travelling, _just about anything fun really._ 
 
-To find out more, check out my [personal website](github.com). (p.s. a work in progress though maybe come back tomorrow?) 
+To find out more, check out my [personal website](https://github.com/daniellingzy). (p.s. a work in progress though maybe come back tomorrow?) 
 
 <!--
 **daniellingzy/daniellingzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
